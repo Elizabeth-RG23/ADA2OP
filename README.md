@@ -11,7 +11,9 @@ luego mostrar la información correspondiente.
 
 
 Se cuenta con validaciones, de tal manera que en caso de poner datos
-erronéos en los campos correspondientes, se le dara aviso.
+erronéos en los campos correspondientes, se le dara aviso para
+componer los datos. Hasta que todos los datos esten correctos el
+botón de Enviar estará activo.
 
 
 ### `Motivos´
