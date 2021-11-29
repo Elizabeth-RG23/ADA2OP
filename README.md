@@ -14,3 +14,6 @@ Se cuenta con validaciones, de tal manera que en caso de poner datos
 erronéos en los campos correspondientes, se le dara aviso para
 componer los datos. Hasta que todos los datos esten correctos el
 botón de Enviar estará activo.
+
+Por circunstancias adversas la página solo captura y guarda datos.
+Se puede observar en consola que si se guardan los datos.
